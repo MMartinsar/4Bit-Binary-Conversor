@@ -5,6 +5,7 @@ This project made with Arduino and coded in C++, converts a decimal number from 
 ## Materials
 
 - Arduino Uno R3
+- Protoboard
 - 4 x LED light bulbs
 - 4 x 220 Ω resistors
 - Cables

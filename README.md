@@ -11,6 +11,8 @@ This project made with Arduino and coded in C++, converts a decimal number from 
 
 ## Circuit Design
 
-![CircuitDesign](https://imgur.com/s10VkPC)
+![Design]()
+
+---
 
 You can access the simulation on [Tinkercad](https://www.tinkercad.com) through this [link](https://www.tinkercad.com/things/biXUOrkBlUK).

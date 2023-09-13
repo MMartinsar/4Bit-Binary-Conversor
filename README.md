@@ -11,7 +11,7 @@ This project made with Arduino and coded in C++, converts a decimal number from 
 
 ## Circuit Design
 
-![Design](/DesignImage/4bit_Binary_Conversor.png)
+![Design](/DesignImage/4bit-binary-conversor.png)
 
 ---
 
